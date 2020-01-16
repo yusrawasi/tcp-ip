@@ -1,0 +1,5 @@
+C:\Users\M Shafi\source\repos\ConsoleApp3client\ConsoleApp3client\bin\Debug\ConsoleApp3client.exe
+C:\Users\M Shafi\source\repos\ConsoleApp3client\ConsoleApp3client\bin\Debug\ConsoleApp3client.pdb
+C:\Users\M Shafi\source\repos\ConsoleApp3client\ConsoleApp3client\obj\Debug\ConsoleApp3client.csprojAssemblyReference.cache
+C:\Users\M Shafi\source\repos\ConsoleApp3client\ConsoleApp3client\obj\Debug\ConsoleApp3client.exe
+C:\Users\M Shafi\source\repos\ConsoleApp3client\ConsoleApp3client\obj\Debug\ConsoleApp3client.pdb
